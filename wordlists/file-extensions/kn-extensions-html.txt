@@ -1,0 +1,9 @@
+htm
+html
+dhtml
+jhtml
+mhtml
+mht
+rhtml
+shtml
+zhtml

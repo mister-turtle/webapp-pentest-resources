@@ -1,0 +1,20 @@
+zzz
+"zzz"
+'zzz'
+`zzz`
+[]
+{}
+{{}}
+0
+1234
+10.234
+true
+false
+True
+False
+TRUE
+FALSE
+("arr1", "arr2")
+null
+nill
+;

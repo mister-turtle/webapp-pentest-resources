@@ -1,0 +1,10 @@
+bak
+dist
+old
+save
+swp
+dat
+~
+templ
+inc
+inc~

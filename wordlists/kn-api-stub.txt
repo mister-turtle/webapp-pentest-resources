@@ -1,0 +1,13 @@
+
+/api
+/API
+/api/v1
+/api/v2
+/api/v3
+/api/v4
+/api/v5
+/API/v1
+/API/v2
+/API/v3
+/API/v4
+/API/v5
